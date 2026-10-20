@@ -1,2 +1,2 @@
 # Netflix
-This is the Clone of Netflix Website Using HTML and CSS
+This is the Clone of Netflix website front page using HTML and CSS with responsiveness
